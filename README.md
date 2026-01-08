@@ -28,3 +28,5 @@ This project was completed in collaboration with Cindy Wang as part of the
 Computing with Text course at Swarthmore College.
 
 **This project is intended for research and educational purposes only.**
+=======
+# Bias Analysis
